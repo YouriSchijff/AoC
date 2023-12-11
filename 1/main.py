@@ -56,7 +56,7 @@ def parseNumbers(numbers):
     return int(''.join(map(str, numbers)))
 
 
-lines = readFile("1.txt")
+lines = readFile("input.txt")
 
 value = 0
 
